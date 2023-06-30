@@ -24,8 +24,8 @@ The phone:
 
 
 
-Of course, I modified some of his code and I didn't write scripts for demo2. I don't remember what demo4.js is for, but I think a smart guy like you can figure it out by yourself ;)
+I modified some of his code and I didn't write scripts for demo2.
 
-Also you can try to write scripts for demo2 by yourself. It's a good exercise. I hope this repo can help you. Good luck.
+It's a good exercise. I hope this repo can help you. Good luck. ;)
 
 ​        
