@@ -2,8 +2,6 @@ I did this whole experiment according to [r0ysue's article.](https://github.com/
 
 My environment:
 
-​        
-
 Android Studio 4.1.3
 Build #AI-201.8743.12.41.7199119, built on March 11, 2021
 Runtime version: 1.8.0_242-release-1644-b01 amd64
